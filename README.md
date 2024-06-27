@@ -18,6 +18,4 @@ Plaid Test Credentials : Username - user_good , Password - pass_good , Mobile Co
 
 ![image](https://github.com/Aadesh098/horizon/assets/48157409/2c2d16b2-9a67-430e-a6bc-5330876f39f2)
 
-![image](https://github.com/Aadesh098/horizon/assets/48157409/9fca58ae-3543-45b6-a903-d9bc8a9652df)
-
 
