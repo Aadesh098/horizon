@@ -49,7 +49,7 @@ import {
   
             return (
               <TableRow key={t.id} className={`${isDebit || amount[0] === '-' ? 'bg-[#FFFBFA]' : 'bg-[#F6FEF9]'} !over:bg-none !border-b-DEFAULT`}>
-                <TableCell className="max-w-[250px] pl-2 pr-10">
+                <TableCell className="max-w-[250px] pl-2 pr-6">
                   <div className="flex items-center gap-3">
                     <h1 className="text-14 truncate font-semibold text-[#344054]">
                       {removeSpecialCharacters(t.name)}
@@ -57,7 +57,7 @@ import {
                   </div>
                 </TableCell>
   
-                <TableCell className={`pl-2 pr-10 font-semibold ${
+                <TableCell className={`pl-2 pr-6 font-semibold ${
                   isDebit || amount[0] === '-' ?
                     'text-[#f04438]'
                     : 'text-[#039855]'
@@ -65,19 +65,19 @@ import {
                   {isDebit ? `-${amount}` : isCredit ? amount : amount}
                 </TableCell>
   
-                <TableCell className="pl-2 pr-10">
+                <TableCell className="pl-2 pr-6">
                   <CategoryBadge category={status} /> 
                 </TableCell>
   
-                <TableCell className="min-w-32 pl-2 pr-10">
+                <TableCell className="min-w-32 pl-2 pr-6">
                   {formatDateTime(new Date(t.date)).dateTime}
                 </TableCell>
   
-                <TableCell className="pl-2 pr-10 capitalize min-w-24">
+                <TableCell className="pl-2 pr-6 capitalize min-w-24">
                  {t.paymentChannel}
                 </TableCell>
   
-                <TableCell className="pl-2 pr-10 max-md:hidden">
+                <TableCell className="pl-2 pr-6 max-md:hidden">
                  <CategoryBadge category={t.category} /> 
                 </TableCell>
               </TableRow>
