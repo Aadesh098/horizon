@@ -1,2 +1,2 @@
-An International Banking and Finance Management Application
+A Cross-Borders International Banking and Finance Management Application
 
