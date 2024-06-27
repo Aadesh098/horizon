@@ -2,6 +2,7 @@ A Cross-Borders International Banking and Finance Management Application
 
 Application Test Credentials : Username - aadesh0313@gmail.com , Password - test@123321 </br>
 Plaid Test Credentials : Username - user_good , Password - pass_good , Mobile Code - credential_good
+
 ![image](https://github.com/Aadesh098/horizon/assets/48157409/5ae34812-e87d-4683-b98e-2d3033c2b532)
 
 ![image](https://github.com/Aadesh098/horizon/assets/48157409/3ee74cf5-d4a4-457b-a173-a5dfe3f15ef7)
