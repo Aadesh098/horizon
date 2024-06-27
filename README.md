@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A Cross-Borders International Banking and Finance Management Application
 
-## Getting Started
+Application Test Credentials : Username - aadesh0313@gmail.com , Password - test@123321 </br>
+Plaid Test Credentials : Username - user_good , Password - pass_good , Mobile Code - credential_good
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/Aadesh098/horizon/assets/48157409/5ae34812-e87d-4683-b98e-2d3033c2b532)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/Aadesh098/horizon/assets/48157409/3ee74cf5-d4a4-457b-a173-a5dfe3f15ef7)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/Aadesh098/horizon/assets/48157409/30412607-a0b7-41f9-9f9c-f340cf4cc645)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/Aadesh098/horizon/assets/48157409/7913ddda-6bc8-483f-b388-82bbf6ea3dd2)
 
-## Learn More
+![image](https://github.com/Aadesh098/horizon/assets/48157409/05544084-adc6-4962-8cee-da34e13454a3)
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/Aadesh098/horizon/assets/48157409/06b308c3-34ab-4a29-a9ab-070d3fd96a50)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/Aadesh098/horizon/assets/48157409/2c2d16b2-9a67-430e-a6bc-5330876f39f2)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
